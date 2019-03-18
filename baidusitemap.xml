@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+  <url>
+    <loc>http://xingshaozhen.github.io/2019/03/17/Resume/</loc>
+    <lastmod>2019-03-17T07:31:38.727Z</lastmod>
+    <data>
+        <display>
+        <title>Shaozhen Xing</title>
+        <pubTime>2019-03-17T07:08:46.623Z</pubTime>
+        
+        <tag>CV</tag>
+         
+        <tag>intrduction</tag>
+         
+         
+           
+             
+              <breadCrumb title="diary" url="http://xingshaozhen.github.io/categories/diary/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+    
+  <url>
+    <loc>http://xingshaozhen.github.io/2019/03/17/hello-world/</loc>
+    <lastmod>2019-03-17T03:56:40.624Z</lastmod>
+    <data>
+        <display>
+        <title>Hello World</title>
+        <pubTime>2019-03-17T03:56:40.624Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+</urlset>
