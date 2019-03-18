@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://xingshaozhen.github.io/"/>
-  <updated>2019-03-17T07:31:38.727Z</updated>
+  <updated>2019-03-17T03:56:40.624Z</updated>
   <id>http://xingshaozhen.github.io/</id>
   
   <author>
@@ -15,34 +15,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>Shaozhen Xing</title>
-    <link href="http://xingshaozhen.github.io/2019/03/17/Resume/"/>
-    <id>http://xingshaozhen.github.io/2019/03/17/Resume/</id>
-    <published>2019-03-17T07:08:46.623Z</published>
-    <updated>2019-03-17T07:31:38.727Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="Hello-everybody"><a href="#Hello-everybody" class="headerlink" title="Hello ,everybody."></a>Hello ,everybody.</h1><ul><li>My name is Shaozhen Xing</li><li>I like traveling, reading ,listenning music, watching movie.</li><li>My hobby is learning language, including speaking language and computer language<br>&lt;! —more—&gt;<br>I am what I am, I am the limited edition!</li></ul>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h1 id=&quot;Hello-everybody&quot;&gt;&lt;a href=&quot;#Hello-everybody&quot; class=&quot;headerlink&quot; title=&quot;Hello ,everybody.&quot;&gt;&lt;/a&gt;Hello ,everybody.&lt;/h1&gt;&lt;ul&gt;
-&lt;li&gt;My name 
-      
-    
-    </summary>
-    
-      <category term="diary" scheme="http://xingshaozhen.github.io/categories/diary/"/>
-    
-    
-      <category term="CV" scheme="http://xingshaozhen.github.io/tags/CV/"/>
-    
-      <category term="intrduction" scheme="http://xingshaozhen.github.io/tags/intrduction/"/>
-    
-  </entry>
   
   <entry>
     <title>Hello World</title>
@@ -62,6 +34,34 @@
     
     </summary>
     
+    
+  </entry>
+  
+  <entry>
+    <title>Shaozhen Xing</title>
+    <link href="http://xingshaozhen.github.io/2019/03/17/Resume/"/>
+    <id>http://xingshaozhen.github.io/2019/03/17/Resume/</id>
+    <published>2019-03-16T16:30:36.000Z</published>
+    <updated>2019-03-18T06:16:38.336Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Hello-everybody"><a href="#Hello-everybody" class="headerlink" title="Hello ,everybody."></a>Hello ,everybody.</h1><ul><li>My name is Shaozhen Xing</li><li>I like traveling, reading ,listenning music, watching movie.</li><li>My hobby is learning language, including speaking language and computer language<br>&lt;! —more—&gt;<br>I am what I am, I am the limited edition!</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;Hello-everybody&quot;&gt;&lt;a href=&quot;#Hello-everybody&quot; class=&quot;headerlink&quot; title=&quot;Hello ,everybody.&quot;&gt;&lt;/a&gt;Hello ,everybody.&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;My name 
+      
+    
+    </summary>
+    
+      <category term="diary" scheme="http://xingshaozhen.github.io/categories/diary/"/>
+    
+    
+      <category term="CV" scheme="http://xingshaozhen.github.io/tags/CV/"/>
+    
+      <category term="introduction" scheme="http://xingshaozhen.github.io/tags/introduction/"/>
     
   </entry>
   
