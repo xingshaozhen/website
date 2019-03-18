@@ -3,6 +3,34 @@
 
 
     
+  <url>
+    <loc>http://xingshaozhen.github.io/2019/03/17/hello-world/</loc>
+    <lastmod>2019-03-18T06:25:06.989Z</lastmod>
+    <data>
+        <display>
+        <title>test</title>
+        <pubTime>2019-03-16T16:30:31.000Z</pubTime>
+        
+        <tag>CV</tag>
+         
+        <tag>introduction</tag>
+         
+        <tag>test</tag>
+         
+         
+           
+             
+              <breadCrumb title="diary" url="http://xingshaozhen.github.io/categories/diary/"/>
+          
+             
+              <breadCrumb title="test" url="http://xingshaozhen.github.io/categories/diary/test/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+    
     
     
   <url>
@@ -27,19 +55,4 @@
     </url>
 
     
-    
-  <url>
-    <loc>http://xingshaozhen.github.io/2019/03/17/hello-world/</loc>
-    <lastmod>2019-03-17T03:56:40.624Z</lastmod>
-    <data>
-        <display>
-        <title>Hello World</title>
-        <pubTime>2019-03-17T03:56:40.624Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
 </urlset>
