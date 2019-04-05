@@ -3,6 +3,34 @@
 
 
     
+    
+  <url>
+    <loc>http://xingshaozhen.github.io/2018/03/26/00_RNA_seq/</loc>
+    <lastmod>2019-03-26T05:55:52.242Z</lastmod>
+    <data>
+        <display>
+        <title>RNA-seq分析 序言</title>
+        <pubTime>2018-03-26T02:10:01.000Z</pubTime>
+        
+        <tag>life</tag>
+         
+        <tag>autobiograpy</tag>
+         
+        <tag>book</tag>
+         
+        <tag>grandpa</tag>
+         
+         
+           
+             
+              <breadCrumb title="book" url="http://xingshaozhen.github.io/categories/book/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+    
   <url>
     <loc>http://xingshaozhen.github.io/2019/03/17/hello-world/</loc>
     <lastmod>2019-03-18T06:25:06.989Z</lastmod>
@@ -31,7 +59,6 @@
 
     
     
-    
   <url>
     <loc>http://xingshaozhen.github.io/2019/03/17/Resume/</loc>
     <lastmod>2019-03-18T06:16:38.336Z</lastmod>
@@ -53,5 +80,6 @@
     </data>
     </url>
 
+    
     
 </urlset>

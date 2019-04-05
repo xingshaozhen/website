@@ -75,4 +75,36 @@
     
   </entry>
   
+  <entry>
+    <title>RNA-seq分析 序言</title>
+    <link href="http://xingshaozhen.github.io/2018/03/26/00_RNA_seq/"/>
+    <id>http://xingshaozhen.github.io/2018/03/26/00_RNA_seq/</id>
+    <published>2018-03-26T02:10:01.000Z</published>
+    <updated>2019-03-26T05:55:52.242Z</updated>
+    
+    <content type="html"><![CDATA[<p>本文章同时放置在我的gitbook账户下，点击[这里]（链接）</p><h1 id="RNAseq看表达量高低是看哪个值？"><a href="#RNAseq看表达量高低是看哪个值？" class="headerlink" title="RNAseq看表达量高低是看哪个值？"></a>RNAseq看表达量高低是看哪个值？</h1><h2 id="Read-count"><a href="#Read-count" class="headerlink" title="Read count"></a>Read count</h2><p>数值概念：比对到gene A的reads数。</p><p>用途：用于换算CPM、RPKM等后续其他指标；作为基因表达差异分析的输入数值。<br>大部分差异分析软件（如DESeq和edgeR），用原始的可比对的reads count作为输入，并用负二项分布模型估算样本间基因差异表达的概率。软件自动会对reads count做一些校正。如果你使用一些校正后的指标，例如RPKM作为输入，是不合理的。</p><h2 id="CPM：Counts-per-million"><a href="#CPM：Counts-per-million" class="headerlink" title="CPM：Counts per million"></a>CPM：Counts per million</h2><p>数值概念：计算公式：CPM=C/N*1000000设C为比对到 gene A 的 reads 数（read count），N 为比对到所有 gene 的总reads 数。</p><p>用途：在某些情况下，只想了解每个基因被覆盖到的相对reads数，而不希望对其做长度校正，就会使用这个指标。在某些RNA-seq文章或一些软件输出结果中（如edgeR）会出现。<br>CPM只对read count相对总reads数做了数量的均一化。当如果想进行表达量的基因间比较，则不得不考虑基因长度的不同。如果进一步做长度的均一化，就得到了下面的RPKM。</p><h2 id="RPKM：Reads-Per-kb-perMillion-reads"><a href="#RPKM：Reads-Per-kb-perMillion-reads" class="headerlink" title="RPKM：Reads Per kb perMillion reads"></a>RPKM：Reads Per kb perMillion reads</h2><p>数值概念：计算公式：RPKM=(1000000<em>C)/(N</em>L/1000)<br>设C 为比对到 gene A 的 reads数（read count），N为比对到所有 gene 的总 reads 数，L 为 gene A 的碱基数。<br>RPKM法能消除基因长度和测序量差异对计算基因表达的影响，计算得到的基因表达量可直接用于比较不同样品间的基因表达差异。</p><p>用途：用于与基因表达量相关的后期分析。例如：基因表达趋势分析、共表达网络构建，热图绘制等都使用这类数值。 FPKM意义与RPKM极为相近。二者区别仅在于，Fragment 与Read。RPKM的诞生是针对早期的SE测序，FPKM则是在PE测序上对RPKM的校正。只要明确Reads和Fragments的区别，RPKM和FPKM的概念便易于区分。Reads即是指下机后fastq数据中的每一条Reads，Fragments则是指每一段用于测序的核酸片段。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;本文章同时放置在我的gitbook账户下，点击[这里]（链接）&lt;/p&gt;
+&lt;h1 id=&quot;RNAseq看表达量高低是看哪个值？&quot;&gt;&lt;a href=&quot;#RNAseq看表达量高低是看哪个值？&quot; class=&quot;headerlink&quot; title=&quot;RNAseq看表达量高低是看哪个值
+      
+    
+    </summary>
+    
+      <category term="book" scheme="http://xingshaozhen.github.io/categories/book/"/>
+    
+    
+      <category term="life" scheme="http://xingshaozhen.github.io/tags/life/"/>
+    
+      <category term="autobiograpy" scheme="http://xingshaozhen.github.io/tags/autobiograpy/"/>
+    
+      <category term="book" scheme="http://xingshaozhen.github.io/tags/book/"/>
+    
+      <category term="grandpa" scheme="http://xingshaozhen.github.io/tags/grandpa/"/>
+    
+  </entry>
+  
 </feed>
